@@ -4,9 +4,11 @@ public class GitDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ÎÒ½øÈëgitÊÀ½ç£¡£¡£¡");
+		System.out.println("æˆ‘è¿›å…¥gitä¸–ç•Œï¼ï¼ï¼");
 		
-		System.out.println("±àÂëÎÊÌâgbk");
+		System.out.println("ç¼–ç é—®é¢˜gbk");
+		
+		System.out.println("æœ¬åœ°ä¿®æ”¹");
 	}
 
 }
