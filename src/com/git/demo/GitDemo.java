@@ -10,7 +10,8 @@ public class GitDemo {
 		
 		System.out.println("本地修改");
  
-		
+		System.out.println("4444444444444444");
+ 
 		System.out.println("ignore");
 	}
 
