@@ -5,7 +5,7 @@ public class TestGit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("nnnnnntttqqqn");
-		System.out.println("tttttttt");
+		System.out.println("aatttttttt");
 	}
 
 }
