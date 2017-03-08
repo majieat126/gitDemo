@@ -9,6 +9,8 @@ public class GitDemo {
 		System.out.println("编码问题gbk");
 		
 		System.out.println("本地修改");
+		
+		System.out.println("本ss地修改");
 	}
 
 }
