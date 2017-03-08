@@ -11,6 +11,8 @@ public class GitDemo {
 		System.out.println("本地修改");
 
 		System.out.println("本ss地修改");
+		
+		System.out.println("ignore");
 	}
 
 }
